@@ -1,0 +1,1 @@
+# rspec_aws_sdk_v2_sqs
